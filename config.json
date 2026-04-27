@@ -1,0 +1,505 @@
+{
+  "title": "DFS2 WebGIS",
+  "defaultBasemap": "street",
+  "defaultAlpha": 1.0,
+  "layers": [
+    {
+      "id": "KB09_H_Water_Depth",
+      "alias": "KB09",
+      "caption": "KB09 - H Water Depth",
+      "item": "H Water Depth",
+      "frames": [
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0000.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0000.tif",
+          "time": "2025-12-22 02:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0001.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0001.tif",
+          "time": "2025-12-22 03:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0002.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0002.tif",
+          "time": "2025-12-22 04:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0003.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0003.tif",
+          "time": "2025-12-22 05:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0004.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0004.tif",
+          "time": "2025-12-22 06:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0005.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0005.tif",
+          "time": "2025-12-22 07:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0006.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0006.tif",
+          "time": "2025-12-22 08:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0007.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0007.tif",
+          "time": "2025-12-22 09:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0008.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0008.tif",
+          "time": "2025-12-22 10:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0009.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0009.tif",
+          "time": "2025-12-22 11:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0010.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0010.tif",
+          "time": "2025-12-22 12:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0011.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0011.tif",
+          "time": "2025-12-22 13:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0012.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0012.tif",
+          "time": "2025-12-22 14:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0013.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0013.tif",
+          "time": "2025-12-22 15:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0014.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0014.tif",
+          "time": "2025-12-22 16:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0015.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0015.tif",
+          "time": "2025-12-22 17:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0016.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0016.tif",
+          "time": "2025-12-22 18:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0017.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0017.tif",
+          "time": "2025-12-22 19:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0018.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0018.tif",
+          "time": "2025-12-22 20:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0019.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0019.tif",
+          "time": "2025-12-22 21:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0020.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0020.tif",
+          "time": "2025-12-22 22:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0021.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0021.tif",
+          "time": "2025-12-22 23:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0022.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0022.tif",
+          "time": "2025-12-23 00:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0023.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0023.tif",
+          "time": "2025-12-23 01:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0024.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0024.tif",
+          "time": "2025-12-23 02:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0025.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0025.tif",
+          "time": "2025-12-23 03:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0026.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0026.tif",
+          "time": "2025-12-23 04:00:00"
+        },
+        {
+          "png": "frames/KB09_H_Water_Depth/frame_0027.png",
+          "tif": "frames/KB09_H_Water_Depth/frame_0027.tif",
+          "time": "2025-12-23 05:00:00"
+        }
+      ],
+      "extent3857": [
+        11980835.472878616,
+        1190281.3286653957,
+        12001941.711042942,
+        1216564.5686436128
+      ],
+      "legendItems": [
+        {
+          "color": "#440154",
+          "label": "0 - 0.2"
+        },
+        {
+          "color": "#482172",
+          "label": "0.2 - 0.5"
+        },
+        {
+          "color": "#423d84",
+          "label": "0.5 - 1"
+        },
+        {
+          "color": "#38578c",
+          "label": "1 - 1.5"
+        },
+        {
+          "color": "#2d6f8e",
+          "label": "1.5 - 2"
+        },
+        {
+          "color": "#24858d",
+          "label": "2 - 3"
+        },
+        {
+          "color": "#1e9a89",
+          "label": "3 - 4"
+        },
+        {
+          "color": "#2ab07e",
+          "label": "4 - 6"
+        },
+        {
+          "color": "#51c468",
+          "label": "6 - 8"
+        },
+        {
+          "color": "#86d449",
+          "label": "8 - 10"
+        },
+        {
+          "color": "#c2df22",
+          "label": "10 - 11"
+        },
+        {
+          "color": "#fde724",
+          "label": "11 - 13"
+        }
+      ]
+    },
+    {
+      "id": "KB10_H_Water_Depth",
+      "alias": "KB10",
+      "caption": "KB10 - H Water Depth",
+      "item": "H Water Depth",
+      "frames": [
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0000.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0000.tif",
+          "time": "2025-12-22 02:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0001.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0001.tif",
+          "time": "2025-12-22 03:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0002.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0002.tif",
+          "time": "2025-12-22 04:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0003.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0003.tif",
+          "time": "2025-12-22 05:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0004.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0004.tif",
+          "time": "2025-12-22 06:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0005.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0005.tif",
+          "time": "2025-12-22 07:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0006.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0006.tif",
+          "time": "2025-12-22 08:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0007.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0007.tif",
+          "time": "2025-12-22 09:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0008.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0008.tif",
+          "time": "2025-12-22 10:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0009.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0009.tif",
+          "time": "2025-12-22 11:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0010.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0010.tif",
+          "time": "2025-12-22 12:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0011.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0011.tif",
+          "time": "2025-12-22 13:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0012.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0012.tif",
+          "time": "2025-12-22 14:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0013.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0013.tif",
+          "time": "2025-12-22 15:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0014.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0014.tif",
+          "time": "2025-12-22 16:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0015.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0015.tif",
+          "time": "2025-12-22 17:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0016.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0016.tif",
+          "time": "2025-12-22 18:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0017.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0017.tif",
+          "time": "2025-12-22 19:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0018.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0018.tif",
+          "time": "2025-12-22 20:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0019.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0019.tif",
+          "time": "2025-12-22 21:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0020.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0020.tif",
+          "time": "2025-12-22 22:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0021.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0021.tif",
+          "time": "2025-12-22 23:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0022.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0022.tif",
+          "time": "2025-12-23 00:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0023.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0023.tif",
+          "time": "2025-12-23 01:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0024.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0024.tif",
+          "time": "2025-12-23 02:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0025.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0025.tif",
+          "time": "2025-12-23 03:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0026.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0026.tif",
+          "time": "2025-12-23 04:00:00"
+        },
+        {
+          "png": "frames/KB10_H_Water_Depth/frame_0027.png",
+          "tif": "frames/KB10_H_Water_Depth/frame_0027.tif",
+          "time": "2025-12-23 05:00:00"
+        }
+      ],
+      "extent3857": [
+        11980835.472878616,
+        1190281.3286653957,
+        12001941.711042942,
+        1216564.5686436128
+      ],
+      "legendItems": [
+        {
+          "color": "#440154",
+          "label": "0 - 0.2"
+        },
+        {
+          "color": "#482172",
+          "label": "0.2 - 0.5"
+        },
+        {
+          "color": "#423d84",
+          "label": "0.5 - 1"
+        },
+        {
+          "color": "#38578c",
+          "label": "1 - 1.5"
+        },
+        {
+          "color": "#2d6f8e",
+          "label": "1.5 - 2"
+        },
+        {
+          "color": "#24858d",
+          "label": "2 - 3"
+        },
+        {
+          "color": "#1e9a89",
+          "label": "3 - 4"
+        },
+        {
+          "color": "#2ab07e",
+          "label": "4 - 6"
+        },
+        {
+          "color": "#51c468",
+          "label": "6 - 8"
+        },
+        {
+          "color": "#86d449",
+          "label": "8 - 10"
+        },
+        {
+          "color": "#c2df22",
+          "label": "10 - 11"
+        },
+        {
+          "color": "#fde724",
+          "label": "11 - 13"
+        }
+      ]
+    }
+  ],
+  "baseLayers": [
+    {
+      "id": "base_Ho_songdinh_48N",
+      "name": "Ho_songdinh_48N",
+      "type": "vector",
+      "url": "backgrounds/Ho_songdinh_48N.geojson",
+      "extent3857": [
+        11982176.030908527,
+        1207745.466159264,
+        11987278.399568105,
+        1210748.4869499227
+      ],
+      "format": "geojson"
+    },
+    {
+      "id": "base_SongDinh_48N",
+      "name": "SongDinh_48N",
+      "type": "vector",
+      "url": "backgrounds/SongDinh_48N.geojson",
+      "extent3857": [
+        11986519.588750996,
+        1192092.504620637,
+        11997799.848779073,
+        1208059.3969478416
+      ],
+      "format": "geojson"
+    },
+    {
+      "id": "base_Dem5m_cat",
+      "name": "Dem5m_cat",
+      "type": "raster",
+      "url": "backgrounds/Dem5m_cat.png",
+      "extent3857": [
+        11980835.515388258,
+        1190281.3225678282,
+        12001926.442015998,
+        1216564.568822878
+      ]
+    }
+  ],
+  "fullExtent3857": [
+    11980835.472878616,
+    1190281.3225678282,
+    12001941.711042942,
+    1216564.568822878
+  ],
+  "groups": {
+    "flood": "Độ sâu ngập lụt",
+    "base": "Lớp nền"
+  },
+  "sourceCrs": "EPSG:32648",
+  "webCrs": "EPSG:3857",
+  "backgroundDiagnostics": [
+    {
+      "source": "D:\\PROJECT\\Model_SD3_USE\\UPKC_HoSongDinh3\\DATA\\Ho_songdinh_48N.shp",
+      "sourceCrs": "EPSG:32648",
+      "targetCrs": "EPSG:3857",
+      "extent3857": [
+        11982176.030908527,
+        1207745.466159264,
+        11987278.399568105,
+        1210748.4869499227
+      ],
+      "mode": "geojson"
+    },
+    {
+      "source": "D:\\PROJECT\\Model_SD3_USE\\UPKC_HoSongDinh3\\DATA\\SongDinh_48N.shp",
+      "sourceCrs": "EPSG:32648",
+      "targetCrs": "EPSG:3857",
+      "extent3857": [
+        11986519.588750996,
+        1192092.504620637,
+        11997799.848779073,
+        1208059.3969478416
+      ],
+      "mode": "geojson"
+    },
+    {
+      "source": "D:\\PROJECT\\Model_SD3_USE\\UPKC_HoSongDinh3\\Model_SD3_USE_CPU_Final\\DATA_Gis\\Dem5m_cat.tif",
+      "sourceCrs": "EPSG:32648",
+      "targetCrs": "EPSG:3857",
+      "extent3857": [
+        11980835.515388258,
+        1190281.3225678282,
+        12001926.442015998,
+        1216564.568822878
+      ],
+      "mode": "raster_png"
+    }
+  ]
+}
