@@ -1,0 +1,38 @@
+[
+  {
+    "source": "D:\\PROJECT\\Model_SD3_USE\\UPKC_HoSongDinh3\\DATA\\Ho_songdinh_48N.shp",
+    "sourceCrs": "EPSG:32648",
+    "targetCrs": "EPSG:3857",
+    "extent3857": [
+      11982176.030908527,
+      1207745.466159264,
+      11987278.399568105,
+      1210748.4869499227
+    ],
+    "mode": "geojson"
+  },
+  {
+    "source": "D:\\PROJECT\\Model_SD3_USE\\UPKC_HoSongDinh3\\DATA\\SongDinh_48N.shp",
+    "sourceCrs": "EPSG:32648",
+    "targetCrs": "EPSG:3857",
+    "extent3857": [
+      11986519.588750996,
+      1192092.504620637,
+      11997799.848779073,
+      1208059.3969478416
+    ],
+    "mode": "geojson"
+  },
+  {
+    "source": "D:\\PROJECT\\Model_SD3_USE\\UPKC_HoSongDinh3\\Model_SD3_USE_CPU_Final\\DATA_Gis\\Dem5m_cat.tif",
+    "sourceCrs": "EPSG:32648",
+    "targetCrs": "EPSG:3857",
+    "extent3857": [
+      11980835.515388258,
+      1190281.3225678282,
+      12001926.442015998,
+      1216564.568822878
+    ],
+    "mode": "raster_png"
+  }
+]
